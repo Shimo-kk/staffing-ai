@@ -1,0 +1,25 @@
+<svg viewBox="0 0 320 85" xmlns="http://www.w3.org/2000/svg">
+  <!-- Main Text -->
+  <text x="180" y="60" font-family="Arial, sans-serif" font-size="48" font-weight="bold" text-anchor="middle" fill="#0066cc">Staffing AI</text>
+  
+  <!-- Icon Elements -->
+  <g transform="translate(40, 50) scale(0.8)">
+    <!-- Document/Person Silhouette -->
+    <rect x="-30" y="-30" width="40" height="50" rx="5" fill="#0099ff" />
+    <circle cx="-10" cy="-15" r="10" fill="#0066cc" />
+    <rect x="-20" y="0" width="20" height="10" rx="2" fill="#0066cc" />
+    
+    <!-- AI Circuit Pattern -->
+    <circle cx="-10" cy="-15" r="15" stroke="#003366" stroke-width="2" fill="none" />
+    <line x1="-25" y1="-15" x2="5" y2="-15" stroke="#003366" stroke-width="2" />
+    <line x1="-10" y1="-30" x2="-10" y2="0" stroke="#003366" stroke-width="2" />
+    <circle cx="-25" cy="-15" r="3" fill="#003366" />
+    <circle cx="5" cy="-15" r="3" fill="#003366" />
+    <circle cx="-10" cy="-30" r="3" fill="#003366" />
+    <circle cx="-10" cy="0" r="3" fill="#003366" />
+  </g>
+  
+  <!-- Connection Lines Representing Network -->
+  <path d="M 70,50 C 90,30 110,70 130,50" stroke="#0066cc" stroke-width="2" fill="none" />
+  <path d="M 70,60 C 90,40 110,80 130,60" stroke="#0066cc" stroke-width="2" fill="none" />
+</svg>

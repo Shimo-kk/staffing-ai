@@ -1,0 +1,2 @@
+CREATE DATABASE staffing_ai_db_dev;
+CREATE DATABASE staffing_ai_db_test;

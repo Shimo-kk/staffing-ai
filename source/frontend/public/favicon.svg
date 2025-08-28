@@ -1,0 +1,18 @@
+<svg viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
+  <!-- Main Icon - Properly Centered -->
+  <g transform="translate(16, 17) scale(0.6)">
+    <!-- Document/Person Silhouette - Centered -->
+    <rect x="-20" y="-25" width="40" height="50" rx="5" fill="#0099ff" />
+    <circle cx="0" cy="-10" r="10" fill="#0066cc" />
+    <rect x="-10" y="5" width="20" height="10" rx="2" fill="#0066cc" />
+    
+    <!-- AI Circuit Pattern - Centered -->
+    <circle cx="0" cy="-10" r="15" stroke="#003366" stroke-width="2" fill="none" />
+    <line x1="-15" y1="-10" x2="15" y2="-10" stroke="#003366" stroke-width="2" />
+    <line x1="0" y1="-25" x2="0" y2="5" stroke="#003366" stroke-width="2" />
+    <circle cx="-15" cy="-10" r="3" fill="#003366" />
+    <circle cx="15" cy="-10" r="3" fill="#003366" />
+    <circle cx="0" cy="-25" r="3" fill="#003366" />
+    <circle cx="0" cy="5" r="3" fill="#003366" />
+  </g>
+</svg>

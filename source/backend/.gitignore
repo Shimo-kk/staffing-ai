@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+.env
+.venv/
+venv/
+
+# VSCode
+.vscode/
+
+# PyCharm
+.idea/
+
+# Alembic
+db/migrations/versions/*.pyc
+
+# Logs
+*.log
+
+# Environment files
+.env*
+
+# Docker
+*.pid
+*.db
+*.sqlite3
+docker-compose.override.yml
+
+# PostgreSQL
+pg_data/
+postgres_data/
+
+# System
+.DS_Store
+Thumbs.db
